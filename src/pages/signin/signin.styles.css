@@ -1,0 +1,49 @@
+.signin .ui.card {
+  width: 100%;
+  text-align: center;
+}
+
+.signin .six.wide.column {
+  height: 100vh;
+  display: flex;
+  align-content: center;
+  justify-content: center;
+  flex-direction: column;
+}
+
+.content {
+  border-top: none !important;
+}
+
+.w-100 {
+  width: 100%;
+}
+
+.d-flex {
+  display: flex;
+}
+
+.justify-content-around {
+  justify-content: space-around;
+}
+
+.align-items-center {
+  align-items: center;
+}
+
+.flex-column {
+  flex-direction: column;
+}
+
+.signin .card.ui .ui.small.image {
+  height: 30px !important;
+}
+
+.signin .card.ui img {
+  height: 100px;
+  width: 150px;
+}
+
+.signin .ui.form {
+  text-align: left;
+}
